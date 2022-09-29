@@ -1,4 +1,4 @@
-# O meu primeiro repo
+# O meu primeiro repo (Rubén González Alfaya
 
 ![Fallou a imaxe](/logo.png)
 
